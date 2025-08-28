@@ -76,6 +76,6 @@ jobs:
     steps:
     - name: Deploy to production
       run: |
-        echo "Deployment step - configure based on your deployment strategy"
+        echo "Deployment step - configure based on Our deployment strategy"
         # Add your deployment commands here
         # For example: kubectl apply -f k8s/ or docker-compose up -d
